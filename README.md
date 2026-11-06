@@ -3,12 +3,12 @@
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?style=flat&logo=next.js)](https://nextjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38bdf8?style=flat&logo=tailwind-css)](https://tailwindcss.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.6-blue?style=flat&logo=typescript)](https://www.typescriptlang.org/)
-[![Deployment](https://img.shields.io/badge/Vercel-harshnerkar.vercel.app-white?style=flat&logo=vercel)](https://harshnerkar.vercel.app)
+[![Deployment](https://img.shields.io/badge/Vercel-harshrameshnerkar.vercel.app-white?style=flat&logo=vercel)](https://harshrameshnerkar.vercel.app)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat)](LICENSE)
 
 Personal engineering portfolio of **Harsh Ramesh Nerkar** — AI / ML & Autonomous Systems Engineer.
 
-🌐 **Live Website:** [harshnerkar.vercel.app](https://harshnerkar.vercel.app)
+🌐 **Live Website:** [harshrameshnerkar.vercel.app](https://harshrameshnerkar.vercel.app)
 
 ---
 
@@ -64,3 +64,4 @@ npm start
 
 ## 📄 License
 This project is licensed under the [MIT License](LICENSE).
+

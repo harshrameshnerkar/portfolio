@@ -349,3 +349,4 @@ export const CERTIFICATES_LIST: Certificate[] = [
     group: "certification"
   }
 ];
+
